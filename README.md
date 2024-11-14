@@ -30,8 +30,7 @@
 - 항공사는 해당 항공사의 항공편별 매출을 그래프로 확인할 수 있는 기능
       
 
-  
-   [개발환경]  
+[개발환경]  
 ・ Frontend : react, CSS, JS(ES6)  
 ・ Backend : Java, Spring Boot, Mybatis  
 ・ DB : DBeaver  
