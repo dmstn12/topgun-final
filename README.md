@@ -13,14 +13,8 @@
 [목표 및 개발과정]
 
 
-
-[고도화 계획]
-
-
-
 ・ 개발환경
-・ Frontend : HTML, CSS, JS(ES6)  
+・ Frontend : react, CSS, JS(ES6)  
 ・ Backend : Java, Spring Boot, Mybatis  
-・ DB : MariaDB  
-・ IDE & Collaboration : IntelliJ, Workbench, Git, Notion  
-・ deployment : Cafe24 Hosting -> AWS EC2, RDS
+・ DB : DBeaver  
+・ IDE & Collaboration : Spring Tool Suite, VSCode, Git, Discord
