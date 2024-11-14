@@ -31,7 +31,6 @@
       
 
   
-[목표 및 개발과정]  
    [개발환경]  
 ・ Frontend : react, CSS, JS(ES6)  
 ・ Backend : Java, Spring Boot, Mybatis  
