@@ -56,7 +56,11 @@
 
 
 [좌석 선택]  
-<a href="https://ibb.co/GchfMpd"><img src="https://i.ibb.co/FgPkY3h/image.png" alt="image" border="0"></a>
+<a href="https://ibb.co/GchfMpd"><img src="https://i.ibb.co/FgPkY3h/image.png" alt="image" border="0"></a>  
+
+
+[데이터 차트]  
+<a href="https://ibb.co/6nDD0pr"><img src="https://i.ibb.co/HFGGTMB/image.png" alt="image" border="0"></a>
 
 
 
