@@ -34,4 +34,12 @@
 ・ Frontend : react, CSS, JS(ES6)  
 ・ Backend : Java, Spring Boot, Mybatis  
 ・ DB : DBeaver  
-・ IDE & Collaboration : Spring Tool Suite, VSCode, Git, Discord
+・ IDE & Collaboration : Spring Tool Suite, VSCode, Git, Discord  
+
+
+
+## 핵심 기능  
+<a href="https://ibb.co/pbHDKKf"><img src="https://i.ibb.co/tQ0f22q/image.png" alt="image" border="0"></a>
+
+
+
