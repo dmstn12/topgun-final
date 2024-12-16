@@ -63,10 +63,6 @@
 <a href="https://ibb.co/6nDD0pr"><img src="https://i.ibb.co/HFGGTMB/image.png" alt="image" border="0"></a>
 
 
-[유스 케이스]  
-<a href="https://ibb.co/jf8t8Qk"><img src="https://i.ibb.co/4tFkFXR/image.png" alt="image" border="0"></a>
-
-
 
 
 
